@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Fruit market 1.0
+---------------------------------------------------
+
+app_name - 						Fruit market
+app_alias - 					fruitmarket
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Stredocesky kraj
+app_author_country - 			Czechia
+app_password - 					3hrSbfKX9iE0
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Monday 12th of October 2026 12:11:09 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
